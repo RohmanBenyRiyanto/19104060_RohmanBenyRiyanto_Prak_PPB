@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentExIm</string>
+    <string name="btn_prodi">Bawa Data Prodi ke Activity Lain</string>
+    <string name="prodi_saya">Prodi Saya ...</string>
+    <string name="btn_call_browser">BUKA BROWSER</string>
+    <string name="btn_call_camera">BUKA CAMERA</string>
+    <string name="input_phone_number">Masukkan nomor telepon</string>
+    <string name="btn_call_phone">BUKA KONTAK</string>
+    <string name="open_fragment">Buka Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_name">Masukkan nama kamu</string>
+    <string name="inputNim">Masukkan Nim kamu</string>
+    <string name="btn_to_second_fragment">Ke Fragment Kedua</string>
+    <string name="fragment_second">Fragment Kedua</string>
+    <string name="btn_back_home">Kembali ke Beranda</string>
+</resources>
