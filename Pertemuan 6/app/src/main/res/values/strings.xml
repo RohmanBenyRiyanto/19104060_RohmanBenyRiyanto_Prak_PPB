@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Modul 6</string>
+    <string name="name">Nama Pariwisata</string>
+    <string name="description">Sebuah pariwisata di kota tersebut yang bla bla bla</string>
+    <string name="tampil_list">list</string>
+    <string name="tampil_grid">grid</string>
+    <string name="tampil_card_view">cart view</string>
+
+    <string-array name="data_name">
+        <item>Wisata Pagubugan</item>
+        <item>The Village Purwokerto</item>
+    </string-array>
+    <string-array name="data_description">
+         <item>Berada di lereng Gunung Slamet, wisata Pagubugan akan membawa Anda merasakan betapa
+        tenang dan nyamannya berada di tengah persawahan dan bermain air di sungai. Eduwisata yang berada
+        di Desa Melung ini memiliki berbagai spot wisata menarik yang akan memanjakan Anda. Mulai dari trek
+        jogging, outbond, camping ground, sawah pelangi, taman kelinci, berbagai spot foto keren dan juga
+        Grujugan Bengkok.Di Grujugan Bengkok ini Anda bisa mandi sepuasnya dan airnya sangat jernih, lho!
+        Selain itu lintasan grujugan ini juga panjang, melewati persawahan dan tidak dalam, sehingga aman buat
+        si kecil. Selain itu ada juga wisata bercocok tanam bagi anak paud, TK maupun SD yang berkunjung. Dan
+        yang terbaru ada kolam renang di tengah persawahan yang aman untuk anak-anak.</item>
+
+        <item>Berlokasi tak terlalu jauh dengan pusat kota Purwokerto, The Village hadir dengan gaya unik
+        khas perkampungan Eropa. Bangunan tinggi besar menyerupai kastil dengan dinding bata langsung
+        mencuri perhatian begitu melangkahkan kaki ke sini. Ada beragam aktivitas yang bisa Anda lakukan di
+        sini: naik perahu mengitari kanal buatan di sekitar taman rekreasi, memberi makan aneka binatang
+        (burung, kelinci, sapi, domba), menunggang kuda, foto-foto dengan kostum Belanda, dan masih banyak
+        lagi!</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/18-1-by-@miftakhulmukhasin-@hengki_pamungkas-740x294.jpg</item>
+        <item>https://indonesia.tripcanvas.co/id/wp-content/uploads/sites/2/2019/09/21-2-by-@The-Village-Purwokerto-740x740.jpg</item>
+    </string-array>
+
+</resources>

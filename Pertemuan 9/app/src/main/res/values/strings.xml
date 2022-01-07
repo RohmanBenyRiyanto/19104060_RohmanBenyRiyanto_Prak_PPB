@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SharedPrefrences</string>
+    <string name="name">Nama</string>
+    <string name="default_name">No Name</string>
+    <string name="email">E-mail</string>
+    <string name="default_email">No E-Mail</string>
+    <string name="phone">Phone Number</string>
+    <string name="default_phone">No Phone Number</string>
+    <string name="age">Umur</string>
+    <string name="default_age">No Age</string>
+    <string name="tv_theme">Theme Mode</string>
+    <string name="default_theme">System Default</string>
+    <string name="setting">Setting</string>
+    <string name="phone_number">Nomor Telp</string>
+    <string name="dark_theme">Tema Gelap</string>
+    <string name="light_theme">Tema Terang</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="save">Simpan</string>
+    <string name="setting_page">Setting</string>
+    <string name="field_required">Kolom tidak boleh kosong</string>
+    <string name="email_is_not_valid">Email tidak sesuai format</string>
+    <string name="field_digit_only">Hanya angka yang diperbolehkan</string>
+</resources>

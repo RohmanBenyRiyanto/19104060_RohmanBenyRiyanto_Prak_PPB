@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/activity_main.xml" value="0.24270833333333333" />
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/activity_practice5.xml" value="0.25677083333333334" />
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/activity_practice5_for_fragment.xml" value="0.19972826086956522" />
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/activity_practice5_read_data.xml" value="0.19972826086956522" />
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/activity_practice5readdata.xml" value="0.19972826086956522" />
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/activity_practice5readdataactivity.xml" value="0.4" />
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/fragment_practice5_first.xml" value="0.176" />
+        <entry key="..\:/Telkom TerANU/Semester 5/PRAKTIKUM PEMROGRAMAN PERANGKAT BERGERAK/Fix/Pertemuan 5/app/src/main/res/layout/fragment_practice5_read_data.xml" value="0.19972826086956522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

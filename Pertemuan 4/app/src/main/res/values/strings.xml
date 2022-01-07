@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">app</string>
-    <string name="btn_prodi">Bawa Data Prodi ke Activity Lain</string>
-    <string name="prodi_saya">Prodi Saya</string>
-    <string name="btn_call_browser">Buka Browser</string>
-    <string name="btn_call_camera">Buka Camera</string>
-    <string name="input_phone_number">INPUT NOMER</string>
-    <string name="btn_call_phone">TELEPON DOI</string>
-</resources>
