@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Modul 8</string>
-    <string name="check_sms_permission">Check SMS  Permission</string>
-    <string name="coming_from">Coming from</string>
-    <string name="this_play">This play</string>
-    <string name="close">Close</string>
-    <string name="incoming_message">Incoming Message</string>
-</resources>
