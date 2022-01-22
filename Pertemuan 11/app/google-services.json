@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127782220166",
+    "project_id": "modul11-5a9fe",
+    "storage_bucket": "modul11-5a9fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127782220166:android:94d28454171aa259863c07",
+        "android_client_info": {
+          "package_name": "com.rohmanbeny.modul11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127782220166-otlctlu4bph3jm4eqg561astkcuu8uk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQIpVLDeEXaI933JbiNRgSvkl4jp1khpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127782220166-otlctlu4bph3jm4eqg561astkcuu8uk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

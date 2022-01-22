@@ -1,0 +1,32 @@
+Variant: debug
+Config: debug
+Store: C:\Users\USER\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 21:3D:5C:50:C3:05:AC:63:70:74:FF:F7:83:AA:46:86
+SHA1: 2A:B5:F7:99:6A:7F:57:FE:55:D3:BA:CD:76:5C:BC:27:31:53:FC:77
+SHA-256: 73:E9:99:2C:55:8C:42:30:24:9F:3C:86:0F:F1:DB:C6:D9:18:47:B8:FC:3D:76:01:6B:1D:51:E9:1E:03:E8:FA
+Valid until: Monday, June 19, 2051
+----------
+Variant: release
+Config: none
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\USER\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 21:3D:5C:50:C3:05:AC:63:70:74:FF:F7:83:AA:46:86
+SHA1: 2A:B5:F7:99:6A:7F:57:FE:55:D3:BA:CD:76:5C:BC:27:31:53:FC:77
+SHA-256: 73:E9:99:2C:55:8C:42:30:24:9F:3C:86:0F:F1:DB:C6:D9:18:47:B8:FC:3D:76:01:6B:1D:51:E9:1E:03:E8:FA
+Valid until: Monday, June 19, 2051
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">127782220166-otlctlu4bph3jm4eqg561astkcuu8uk5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">127782220166</string>
+    <string name="google_api_key" translatable="false">AIzaSyBQIpVLDeEXaI933JbiNRgSvkl4jp1khpA</string>
+    <string name="google_app_id" translatable="false">1:127782220166:android:94d28454171aa259863c07</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBQIpVLDeEXaI933JbiNRgSvkl4jp1khpA</string>
+    <string name="google_storage_bucket" translatable="false">modul11-5a9fe.appspot.com</string>
+    <string name="project_id" translatable="false">modul11-5a9fe</string>
+</resources>
