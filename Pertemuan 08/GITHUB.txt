@@ -1,0 +1,7 @@
+echo # 19104060_RohmanBenyRiyanto_Prak_PPB  README.md
+git init
+git add README.md
+git commit -m first commit
+git branch -M main
+git remote add origin httpsgithub.comRohmanBenyRiyanto19104060_RohmanBenyRiyanto_Prak_PPB.git
+git push -u origin main
